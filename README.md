@@ -1,16 +1,15 @@
-# todo_list_supabase
+Pada seri tutorial kali ini, kita akan mempelajari bagaimana cara intergrasi Flutter dengan Supabase yang sebagai BE. Di tutorial ini kita membuat aplikasi sederhana yaitu To-Do List. Di sini kita akan mempelajari flutter dengan state management menggunakan BLoC.
 
-A new Flutter project.
+### Tahapan Belajar
 
-## Getting Started
+1. Pengenalan Supabase
+2. Membuat Database dan Tabel Supabase
+3. Konfigurasi Flutter Supabase
+4. State Management BLoC
+5. Menampilkan Data dari database Supabase
+6. Fungsi Insert Data
+7. Fungsi Centang Data
+8. Fungsi Hapus Data
 
-This project is a starting point for a Flutter application.
+Selengkapnya: https://slink.web.id/1RqWar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
